@@ -16,13 +16,13 @@
     <img src="https://s2.loli.net/2022/04/03/DRiZGoTtfMQs4mu.png" width="30px"/>
   </a>
   &emsp;
-  <a href="https://www.zhihu.com/people/fStardust" alt="Zhihu" title="Zhihu">
-    <img src="https://s2.loli.net/2022/04/03/OQrAeuM76NzgpC2.png" width="28px"/>
-  </a>
-  &emsp;
   <a href="https://space.bilibili.com/24888994" alt="Bilibili" title="Bilibili">
     <img src="https://s2.loli.net/2022/04/03/IG1C3OA2nYbDUyf.png" width="30px"/>
   </a> 
+  &emsp;
+  <a href="https://www.zhihu.com/people/fStardust" alt="Zhihu" title="Zhihu">
+    <img src="https://s2.loli.net/2022/04/03/OQrAeuM76NzgpC2.png" width="28px"/>
+  </a>
   &emsp;
   <br><br>
   <strong>Check out my work below!</strong>
