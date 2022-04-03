@@ -4,10 +4,7 @@
 
 <p align="center">
   <a href="https://github.com/fStardust" class="rich-diff-level-one">
-    <img src="https://github-readme-stats.vercel.app/api?username=fStardust&title_color=333&text_color=777" alt="fStardust's Stats" >
-    <!-- &hide=issues
-    <img src="https://github-readme-stats.vercel.app/api?username=fStardust&hide=issues&title_color=333&text_color=777" alt="fStardust's Stats" >
-    -->
+    <img src="https://github-readme-stats.vercel.app/api?username=fStardust& alt="fStardust's Stats" >
   </a>
 </p>
 
