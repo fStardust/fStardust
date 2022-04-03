@@ -12,16 +12,16 @@
 </p>
 
 <p align="center">
-  <a href="https://blog.csdn.net/weixin_44350366" target="_blank" alt="CSDN" title="CSDN">
-    <img src="https://img.icons8.com/material/48/000000/csdn.png" width="30px"/>
+  <a href="https://blog.csdn.net/weixin_44350366" alt="CSDN" title="CSDN">
+    <img src="https://s2.loli.net/2022/04/03/DRiZGoTtfMQs4mu.png" width="30px"/>
   </a>
   &emsp;
-  <a href="https://www.zhihu.com/people/fStardust" target="_blank" alt="Zhihu" title="Zhihu">
-    <img src="https://img.icons8.com/material-two-tone/50/000000/zhihu.png" width="28px"/>
+  <a href="https://www.zhihu.com/people/fStardust" alt="Zhihu" title="Zhihu">
+    <img src="https://s2.loli.net/2022/04/03/OQrAeuM76NzgpC2.png" width="28px"/>
   </a>
   &emsp;
-  <a href="https://space.bilibili.com/24888994" target="_blank" alt="Bilibili" title="Bilibili">
-    <img src="https://user-images.githubusercontent.com/29084184/129467562-a754907c-c128-40d0-80ad-86e89bdda3d6.png" width="30px"/>
+  <a href="https://space.bilibili.com/24888994" alt="Bilibili" title="Bilibili">
+    <img src="https://s2.loli.net/2022/04/03/IG1C3OA2nYbDUyf.png" width="30px"/>
   </a> 
   &emsp;
   <br><br>
