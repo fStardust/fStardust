@@ -36,11 +36,11 @@
   <a href="https://github.com/fStardust?tab=repositories">
     <img src="https://badges.pufler.dev/repos/fStardust?&logo=github">
   </a>
-  <a href="https://gist.github.com/fStardust">
-    <img src="https://badges.pufler.dev/gists/fStardust?&logo=github">
-  </a>
   <a href="https://github.com/fStardust">
     <img src="https://badges.pufler.dev/commits/monthly/fStardust?&logo=github">
+  </a>
+    <a href="https://gist.github.com/fStardust">
+    <img src="https://badges.pufler.dev/gists/fStardust?&logo=github">
   </a>
 </p>
 
