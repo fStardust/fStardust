@@ -1,5 +1,4 @@
 ### Hi there 👋
-![](https://visitor-badge.glitch.me/badge?page_id=fStardust.readme)
 
 <br>
 
@@ -29,19 +28,19 @@
   <strong>Check out my work below!</strong>
   <br><br>
   <a href="https://github.com/fStardust">
-    <img src="https://badges.pufler.dev/visits/Charmve/Charmve?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/visits/fStardust/fStardust?&logo=github">
   </a>
   <a href="https://github.com/fStardust">
-    <img src="https://badges.pufler.dev/years/Charmve?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/years/fStardust?&logo=github">
   </a>
   <a href="https://github.com/fStardust?tab=repositories">
-    <img src="https://badges.pufler.dev/repos/Charmve?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/repos/fStardust?&logo=github">
   </a>
   <a href="https://gist.github.com/fStardust">
-    <img src="https://badges.pufler.dev/gists/Charmve?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/gists/fStardust?&logo=github">
   </a>
   <a href="https://github.com/fStardust">
-    <img src="https://badges.pufler.dev/commits/monthly/Charmve?style=flat-square&color=black&logo=github">
+    <img src="https://badges.pufler.dev/commits/monthly/fStardust?&logo=github">
   </a>
 </p>
 
